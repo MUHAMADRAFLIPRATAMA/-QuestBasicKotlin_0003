@@ -19,3 +19,6 @@ membuat koleksi pasangan kunci-nilai (Map) berisi menu jus beserta harganya yang
 
 membuat menu jus beserta harganya menggunakan MutableMap yang isinya bisa diubah atau ditambah, lalu mencetaknya ke layar.
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3d5db295-f607-4f97-aa98-75353b3f0ed0" />
+
+mengambil dan mencetak nilai (harga) spesifik dari salah satu key di dalam Map.
+<img width="1910" height="1079" alt="image" src="https://github.com/user-attachments/assets/fa076aef-7b81-4dbe-9cee-54d1dd602122" />
