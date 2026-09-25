@@ -55,3 +55,6 @@ menunjukkan cara mengakses dan mengubah nilai properti bertipe mutable (var) di 
 
 menunjukkan cara menambahkan metode (member function) ke dalam sebuah kelas dan memanggilnya melalui objek.
 <img width="1905" height="1079" alt="image" src="https://github.com/user-attachments/assets/4fd2f3a8-74dc-4054-9965-e20e379a1047" />
+
+menunjukkan pembandingan dua objek menggunakan operator kesamaan (==) pada sebuah data class.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e8cb5ada-7596-45bc-b59a-d919e31194a8" />
