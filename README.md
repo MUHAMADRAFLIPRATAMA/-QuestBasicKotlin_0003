@@ -49,3 +49,6 @@ mendefinisikan fungsi dasar tanpa nilai kembalian (Unit/void function) yang mene
 
 membuat fungsi tanpa nama (Lambda Expression) yang mengubah teks menjadi huruf kapital, lalu langsung memanggilnya secara instan (Invoke).
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/80830f61-3271-4bd8-92cb-67aa7da010c9" />
+
+menunjukkan cara mengakses dan mengubah nilai properti bertipe mutable (var) di dalam sebuah objek.
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/3a1df3a6-14a5-42ef-ba67-247a4f4ac9b5" />
