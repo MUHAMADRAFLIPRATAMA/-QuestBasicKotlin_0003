@@ -61,3 +61,6 @@ menunjukkan pembandingan dua objek menggunakan operator kesamaan (==) pada sebua
 
 menunjukkan pembandingan nilai dua objek (structural equality) menggunakan operator == pada sebuah data class.
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4dd87401-95c0-4811-a8ba-1a055ff6d494" />
+
+menunjukkan konsep Null Safety di Kotlin, membedakan variabel non-nullable dan nullable, serta cara menangani nilai null dengan aman (safe call/check).
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/291e7aa3-a9ce-4be8-8a78-7c77454fbe6f" />
