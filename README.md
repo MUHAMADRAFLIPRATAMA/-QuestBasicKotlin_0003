@@ -22,3 +22,6 @@ membuat menu jus beserta harganya menggunakan MutableMap yang isinya bisa diubah
 
 mengambil dan mencetak nilai (harga) spesifik dari salah satu key di dalam Map.
 <img width="1910" height="1079" alt="image" src="https://github.com/user-attachments/assets/fa076aef-7b81-4dbe-9cee-54d1dd602122" />
+
+menentukan nilai variabel berdasarkan kondisi boolean (if-else) lalu mencetak hasilnya.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0fc8bd93-5c4e-49fe-80b5-13284e521910" />
