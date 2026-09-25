@@ -70,3 +70,6 @@ memeriksa apakah sebuah variabel nullable string berisi teks atau null, lalu men
 
 menghitung panjang sebuah nullable string secara aman menggunakan operator Safe Call (?.) tanpa risiko menyebabkan NullPointerException.
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4b4b2d06-8499-4bad-82d5-539f4eea65b8" />
+
+memberikan nilai default (nilai cadangan) menggunakan Elvis Operator (?:) ketika suatu variabel nullable bernilai null.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/348cab39-078c-4b8b-81bb-07c74bff2e2c" />
