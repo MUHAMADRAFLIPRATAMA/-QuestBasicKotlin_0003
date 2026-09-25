@@ -64,3 +64,6 @@ menunjukkan pembandingan nilai dua objek (structural equality) menggunakan opera
 
 menunjukkan konsep Null Safety di Kotlin, membedakan variabel non-nullable dan nullable, serta cara menangani nilai null dengan aman (safe call/check).
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/291e7aa3-a9ce-4be8-8a78-7c77454fbe6f" />
+
+memeriksa apakah sebuah variabel nullable string berisi teks atau null, lalu mengembalikan deskripsi mengenai status dan panjang string tersebut secara aman.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fc311b67-4d24-4ed3-901a-fd78ebd76f76" />
