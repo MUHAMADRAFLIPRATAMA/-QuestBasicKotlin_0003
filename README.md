@@ -58,3 +58,6 @@ menunjukkan cara menambahkan metode (member function) ke dalam sebuah kelas dan 
 
 menunjukkan pembandingan dua objek menggunakan operator kesamaan (==) pada sebuah data class.
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e8cb5ada-7596-45bc-b59a-d919e31194a8" />
+
+menunjukkan pembandingan nilai dua objek (structural equality) menggunakan operator == pada sebuah data class.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4dd87401-95c0-4811-a8ba-1a055ff6d494" />
