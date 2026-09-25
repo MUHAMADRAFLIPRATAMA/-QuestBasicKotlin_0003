@@ -40,3 +40,6 @@ mendefinisikan sebuah fungsi bernama sum di dalam fungsi main (disebut local fun
 
 membuat fungsi pencetak pesan dengan awalan (prefix) opsional, lalu memanggilnya menggunakan named arguments.
 <img width="1918" height="1076" alt="image" src="https://github.com/user-attachments/assets/0723c63e-bbca-4e40-89eb-66aee98694a6" />
+
+menunjukkan berbagai cara memanggil fungsi dengan default argument dan named arguments di Kotlin.
+<img width="1916" height="1045" alt="image" src="https://github.com/user-attachments/assets/189168b9-5465-4d2e-b9be-3f18290ddb17" />
