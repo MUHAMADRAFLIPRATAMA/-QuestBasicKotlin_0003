@@ -16,3 +16,6 @@ untuk membuat set data unik (Set) yang mengabaikan duplikat, lalu mencetak hasil
 
 membuat koleksi pasangan kunci-nilai (Map) berisi menu jus beserta harganya yang bersifat read-only, lalu mencetaknya ke layar.
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5f1435d6-7f9f-474b-b56b-9df66c341b42" />
+
+membuat menu jus beserta harganya menggunakan MutableMap yang isinya bisa diubah atau ditambah, lalu mencetaknya ke layar.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3d5db295-f607-4f97-aa98-75353b3f0ed0" />
