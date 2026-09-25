@@ -37,3 +37,6 @@ melakukan perulangan (looping) dari angka 1 sampai 5 dan mencetak setiap angkany
 
 mendefinisikan sebuah fungsi bernama sum di dalam fungsi main (disebut local function) untuk menjumlahkan dua angka bulat dan mengembalikan hasilnya.
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4a8cf9c3-456c-41ca-881b-a04fd0a3e23c" />
+
+membuat fungsi pencetak pesan dengan awalan (prefix) opsional, lalu memanggilnya menggunakan named arguments.
+<img width="1918" height="1076" alt="image" src="https://github.com/user-attachments/assets/0723c63e-bbca-4e40-89eb-66aee98694a6" />
