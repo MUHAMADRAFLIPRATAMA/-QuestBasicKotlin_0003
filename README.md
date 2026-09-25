@@ -34,3 +34,6 @@ mengevaluasi nilai variabel obj menggunakan when sebagai ekspresi (expression), 
 
 melakukan perulangan (looping) dari angka 1 sampai 5 dan mencetak setiap angkanya secara berurutan ke layar.
 <img width="1918" height="1071" alt="image" src="https://github.com/user-attachments/assets/d213076a-4421-4612-8d9b-31c08cf107c7" />
+
+mendefinisikan sebuah fungsi bernama sum di dalam fungsi main (disebut local function) untuk menjumlahkan dua angka bulat dan mengembalikan hasilnya.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4a8cf9c3-456c-41ca-881b-a04fd0a3e23c" />
