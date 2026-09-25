@@ -46,3 +46,6 @@ menunjukkan berbagai cara memanggil fungsi dengan default argument dan named arg
 
 mendefinisikan fungsi dasar tanpa nilai kembalian (Unit/void function) yang menerima satu parameter string, lalu mencetak isinya ke layar.
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c43ee819-1896-45a0-bbba-7f3f820ec139" />
+
+membuat fungsi tanpa nama (Lambda Expression) yang mengubah teks menjadi huruf kapital, lalu langsung memanggilnya secara instan (Invoke).
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/80830f61-3271-4bd8-92cb-67aa7da010c9" />
