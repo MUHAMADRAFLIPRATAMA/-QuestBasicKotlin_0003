@@ -28,3 +28,7 @@ menentukan nilai variabel berdasarkan kondisi boolean (if-else) lalu mencetak ha
 
 menyeleksi nilai variabel obj dan menjalankan perintah yang sesuai dengan kecocokan nilainya (mirip dengan struktur switch-case di bahasa pemograman lain).
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e776473b-605c-4996-ba34-b2e1f29b2e88" />
+
+mengevaluasi nilai variabel obj menggunakan when sebagai ekspresi (expression), menyimpannya ke dalam variabel result, lalu mencetak hasilnya.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3e8d88f8-3374-4585-94ef-580f8c845812" />
+
