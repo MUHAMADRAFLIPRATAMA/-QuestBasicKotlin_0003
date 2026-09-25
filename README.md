@@ -13,3 +13,6 @@ Mutable list with explicit type declaration
 
 untuk membuat set data unik (Set) yang mengabaikan duplikat, lalu mencetak hasilnya ke layar.
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f8a199ad-7933-4758-aca3-f80b443a0607" />
+
+membuat koleksi pasangan kunci-nilai (Map) berisi menu jus beserta harganya yang bersifat read-only, lalu mencetaknya ke layar.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5f1435d6-7f9f-474b-b56b-9df66c341b42" />
