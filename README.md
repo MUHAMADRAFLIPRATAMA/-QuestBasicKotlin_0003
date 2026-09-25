@@ -43,3 +43,6 @@ membuat fungsi pencetak pesan dengan awalan (prefix) opsional, lalu memanggilnya
 
 menunjukkan berbagai cara memanggil fungsi dengan default argument dan named arguments di Kotlin.
 <img width="1916" height="1045" alt="image" src="https://github.com/user-attachments/assets/189168b9-5465-4d2e-b9be-3f18290ddb17" />
+
+mendefinisikan fungsi dasar tanpa nilai kembalian (Unit/void function) yang menerima satu parameter string, lalu mencetak isinya ke layar.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c43ee819-1896-45a0-bbba-7f3f820ec139" />
