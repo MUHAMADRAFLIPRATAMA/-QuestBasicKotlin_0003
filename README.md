@@ -67,3 +67,6 @@ menunjukkan konsep Null Safety di Kotlin, membedakan variabel non-nullable dan n
 
 memeriksa apakah sebuah variabel nullable string berisi teks atau null, lalu mengembalikan deskripsi mengenai status dan panjang string tersebut secara aman.
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fc311b67-4d24-4ed3-901a-fd78ebd76f76" />
+
+menghitung panjang sebuah nullable string secara aman menggunakan operator Safe Call (?.) tanpa risiko menyebabkan NullPointerException.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4b4b2d06-8499-4bad-82d5-539f4eea65b8" />
