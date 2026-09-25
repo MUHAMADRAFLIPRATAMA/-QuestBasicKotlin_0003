@@ -25,3 +25,6 @@ mengambil dan mencetak nilai (harga) spesifik dari salah satu key di dalam Map.
 
 menentukan nilai variabel berdasarkan kondisi boolean (if-else) lalu mencetak hasilnya.
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0fc8bd93-5c4e-49fe-80b5-13284e521910" />
+
+menyeleksi nilai variabel obj dan menjalankan perintah yang sesuai dengan kecocokan nilainya (mirip dengan struktur switch-case di bahasa pemograman lain).
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e776473b-605c-4996-ba34-b2e1f29b2e88" />
