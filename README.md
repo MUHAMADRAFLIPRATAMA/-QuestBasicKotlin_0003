@@ -10,3 +10,6 @@ Membuat dan mencetak read-only list berisi nama-nama bentuk geometri
 
 Mutable list with explicit type declaration 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1d16a66d-e7f5-4730-a780-99ddf4ad8355" />
+
+untuk membuat set data unik (Set) yang mengabaikan duplikat, lalu mencetak hasilnya ke layar.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f8a199ad-7933-4758-aca3-f80b443a0607" />
