@@ -32,3 +32,5 @@ menyeleksi nilai variabel obj dan menjalankan perintah yang sesuai dengan kecoco
 mengevaluasi nilai variabel obj menggunakan when sebagai ekspresi (expression), menyimpannya ke dalam variabel result, lalu mencetak hasilnya.
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3e8d88f8-3374-4585-94ef-580f8c845812" />
 
+melakukan perulangan (looping) dari angka 1 sampai 5 dan mencetak setiap angkanya secara berurutan ke layar.
+<img width="1918" height="1071" alt="image" src="https://github.com/user-attachments/assets/d213076a-4421-4612-8d9b-31c08cf107c7" />
