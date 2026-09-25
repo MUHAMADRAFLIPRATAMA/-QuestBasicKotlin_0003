@@ -7,3 +7,6 @@ ntuk menyimpan angka ke dalam variabel dan mencetak pesan teks yang menggabungka
 
 Membuat dan mencetak read-only list berisi nama-nama bentuk geometri
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8c2cc49f-6ab1-4168-b165-45340a5b3867" />
+
+Mutable list with explicit type declaration 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1d16a66d-e7f5-4730-a780-99ddf4ad8355" />
