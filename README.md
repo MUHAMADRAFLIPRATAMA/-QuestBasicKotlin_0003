@@ -52,3 +52,6 @@ membuat fungsi tanpa nama (Lambda Expression) yang mengubah teks menjadi huruf k
 
 menunjukkan cara mengakses dan mengubah nilai properti bertipe mutable (var) di dalam sebuah objek.
 <img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/3a1df3a6-14a5-42ef-ba67-247a4f4ac9b5" />
+
+menunjukkan cara menambahkan metode (member function) ke dalam sebuah kelas dan memanggilnya melalui objek.
+<img width="1905" height="1079" alt="image" src="https://github.com/user-attachments/assets/4fd2f3a8-74dc-4054-9965-e20e379a1047" />
